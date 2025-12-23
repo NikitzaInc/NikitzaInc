@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://t.me/NikitzaInc/"><img alt="tg" 
                                                         height="56" 
-                                                        src="telega.png"></a> <a href="https://m.vk.com/nikitzainc"><img alt="vk" 
+                                                        src="telega.svg"></a> <a href="https://m.vk.com/nikitzainc"><img alt="vk" 
                                           height="56" 
                                           src="vk.svg"></a> <a href="https://discordapp.com/users/664948560818864166"><img alt="discord" 
                                               height="56" 
